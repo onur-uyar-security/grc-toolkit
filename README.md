@@ -14,7 +14,7 @@ placeholders (`<...>`) with your own context.
 |---|---|
 | [`iso27001/`](iso27001) | ISMS risk-assessment methodology, Statement of Applicability (Annex A 2022) template, internal-audit checklist (clauses 4–10) |
 | [`iso42001/`](iso42001) | ISO/IEC 42001 AI Management System overview and key control areas |
-| [`nis2/`](nis2) | NIS2 readiness checklist (Article 21 measures) and reporting timeline |
+| [`nis2/`](NIS2) | NIS2 readiness checklist (Article 21 measures) and reporting timeline |
 | [`templates/`](templates) | Risk register template, ISO 27001 ↔ NIS2 control mapping |
  
 ## How to use
