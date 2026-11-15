@@ -8,7 +8,7 @@ addressing risk, transparency, accountability and the AI lifecycle. It shares th
 ## Why it matters
 - Provides a certifiable framework for **responsible / trustworthy AI**.
 - Complements emerging AI regulation (e.g. the EU AI Act) with a management-system approach.
-- A rare, high-value credential area — few practitioners hold an **ISO/IEC 42001 Lead Auditor** certification.
+- A rare, high-value credential area
 ## Management-system clauses (4–10)
 Same structure as ISO 27001: **Context · Leadership · Planning · Support · Operation ·
 Performance evaluation · Improvement** — applied to AI.
