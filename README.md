@@ -4,7 +4,7 @@ A practical **Governance, Risk & Compliance** toolkit: generic templates, checkl
 notes for building and auditing an **Information Security Management System (ISMS)** and an
 **AI Management System (AIMS)**, and for preparing for **NIS2**.
  
-Built from my work as an **ISO/IEC 27001 & ISO/IEC 42001 Lead Auditor**. All content is
+Built from my work after I **ISO/IEC 27001 Lead Auditor training completed, exam passed · ISO/IEC 42001 Lead Auditor training completed, exam passed**. All content is
 **generic and reusable** — it contains no real organisational data; replace the
 placeholders (`<...>`) with your own context.
  
@@ -27,4 +27,4 @@ the NIS2 Directive. They are a starting point, **not legal advice** and **not a 
 for the official standards (ISO/IEC 27001:2022, ISO/IEC 42001:2023) or Directive (EU) 2022/2555.
  
 ---
-*Author: Osman Onur Uyar — ISO/IEC 27001 & 42001 Lead Auditor.*
+*Author: Osman Onur Uyar — ISO/IEC 27001 Lead Auditor training completed, exam passed · ISO/IEC 42001 Lead Auditor training completed, exam passed*
